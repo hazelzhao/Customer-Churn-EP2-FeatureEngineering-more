@@ -1,6 +1,6 @@
 # Read me 
 
-This part aims at discovering if feature engineering help to model improvement.
+This part aims at discovering if feature engineering helps to model improvement.
 
 Analysed the correlation between variables, reduced the number of variables from 46 to 19. Coefficient for categorical data -- Cramer'V
 
