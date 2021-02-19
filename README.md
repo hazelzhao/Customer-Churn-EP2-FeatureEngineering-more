@@ -10,12 +10,13 @@ This part aims at discovering if feature engineering helps to model improvement.
 
 4.Upsampling for more models -- a brief experiment
 
-# More thoughts about modelling:
+# What could be done for further improvement
+
 1.Considering LightGBM?
 
 2.Ensemble and stack promising models?
 
-3.Do some segmentation on important categorical features as contract type"?
+3.Do some segmentation on important categorical features (e.g.,contract type) ?
 
 # Thoughts about business:
 
