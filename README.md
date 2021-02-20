@@ -14,7 +14,7 @@ This part aims at discovering if feature engineering helps to model improvement.
 
 1.Considering LightGBM?
 
-2.Ensemble and stack promising models?
+2.Ensemble and stack promising models? I guess XGBoost has the largest weight.
 
 3.Do some segmentation on important categorical features (e.g.,contract type) ?
 
